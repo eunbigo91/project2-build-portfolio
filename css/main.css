@@ -35,6 +35,7 @@ p {
 
 
 .logo {
+    margin: .5em 0 0;
     max-width: 120px;
 }
 
