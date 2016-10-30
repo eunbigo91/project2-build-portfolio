@@ -1,6 +1,9 @@
-# Project2: Build a portfolio site 
+# Project2: Build a portfolio site
 
 This is the second project dedicated to building a personal portfolio for Udacity's Full Stack Web Developer Nanodegree program. Udacity Nanodegree program provided the design mockup as a PDF-file and the design is personalized by Eunbi Go. This is a responsive website using the bootstrap framework.
+
+## Drafts
+If you want to see drafts, you can find 'responsive.png' file or click [here](https://github.com/eunbigo91/project2-build-portfolio/blob/master/responsive.png)
 
 ## Files
 ```
@@ -33,7 +36,6 @@ udacity-project2-build-portfolio.zip/
 ```
 
 ## Copyright and License
-- Project starter code contributed by Udacity Full Stack Web Developer Nanodegree Program. 
+- Project starter code contributed by Udacity Full Stack Web Developer Nanodegree Program.
 - Additional code contributed by Eunbi Go.
-- The logo is Designed by [Freepik](http://www.freepik.com).
 
